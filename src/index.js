@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.css';
 
 // Components
 import App from './router/App'
@@ -7,6 +8,8 @@ import App from './router/App'
 // styles
 import 'bootstrap/dist/css/bootstrap.css';
 import './global.css'
+import './global.css';
+import App from './components/App';
 
 const container = document.getElementById("app")
 

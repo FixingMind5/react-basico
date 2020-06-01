@@ -8,11 +8,6 @@
   border-radius: 5px;
   display: flex;
   padding: 1rem;
-  margin-bottom: 20px;
-}
-
-.BadgesListItem p {
-  margin: 0;
 }
 
 .BadgesListItem__avatar {
@@ -21,9 +16,4 @@
   margin-right: 0.5rem;
   width: 80px;
   height: 80px;
-}
-
-.BadgesListItem__twitter {
-  color: #007bff;
-  margin: 0;
 }
