@@ -1,15 +1,6 @@
 {
   "badges": [
     {
-      "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Freda",
-      "lastName": "Grady",
-      "email": "Leann_Berge@gmail.com",
-      "jobTitle": "Legacy Brand Director",
-      "twitter": "FredaGrady22221-7573",
-      "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
-    },
-    {
       "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
       "firstName": "Major",
       "lastName": "Rodriguez",
@@ -440,6 +431,102 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Ricardo",
+      "lastName": "Aguilar",
+      "email": "ricardog@gmail.com",
+      "jobTitle": "Brand Junior",
+      "twitter": "ricardog",
+      "id": "ip-lZ5b"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "fbft2zH"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "2ADzBD0"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "HYXd5l6"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "gV-G7Kk"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "SMQyahZ"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "ko_f3jL"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "z4FVi6P"
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Aguilar",
+      "email": "aguilarmanu5@gmail.com",
+      "jobTitle": "KickAss senior dev",
+      "twitter": "fixingmind5",
+      "id": "Hpl-8eK"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "jobTitle": "",
+      "twitter": "",
+      "id": "MhKwkrp"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "jobTitle": "",
+      "twitter": "",
+      "id": "I379gNS"
+    },
+    {
+      "firstName": "Ricardo",
+      "lastName": "Aguilar",
+      "email": "ricardog@gmail.com",
+      "jobTitle": "Designer",
+      "twitter": "ricardog",
+      "id": "0700X-p"
     }
   ]
 }

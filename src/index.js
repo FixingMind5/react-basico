@@ -1,16 +1,17 @@
-// const element = document.createElement('h1');
-// element.innerText = 'Hello, Platzi Badges!';
-
-// const container = document.getElementById('app');
-
-// container.appendChild(element);
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const element = <h1>Hello, Platzi Badges!</h1>;
+// Components
+import App from './router/App'
 
-const container = document.getElementById('app');
+// styles
+import 'bootstrap/dist/css/bootstrap.css';
+import './global.css'
 
-// ReactDOM.render(__qué__, __dónde__);
-ReactDOM.render(element, container);
+const container = document.getElementById("app")
+
+// React dom siempre recibe un elemento
+// es por eso que siempre usamos etiquetas
+// que se auto-cierran para declarar el componente
+// como elemento
+ReactDOM.render(<App />, container)

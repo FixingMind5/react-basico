@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.NotFound {
+    display: grid;
+    grid-auto-flow: column;
+    background: url('../../images/stars.svg'), #1B1B25;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.NotFound .info__title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 75px;
+}
+
+.NotFound .info__body {
+    font-size: 35px;
+}
